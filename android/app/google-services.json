@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "253259445767",
+    "firebase_url": "https://ocr-passport-b6f78.firebaseio.com",
+    "project_id": "ocr-passport-b6f78",
+    "storage_bucket": "ocr-passport-b6f78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253259445767:android:0df1a6df1f8371dd025ca2",
+        "android_client_info": {
+          "package_name": "com.example.ocr_passport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253259445767-cj111mpiclbh9q5akkmb3bq3ksrv7inh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvWoVyy-2WqS3DZYl9NOoZ--YVSgHLyJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253259445767-cj111mpiclbh9q5akkmb3bq3ksrv7inh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
